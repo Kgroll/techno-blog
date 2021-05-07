@@ -1,5 +1,5 @@
 
-  ## Tech-no Blog     ![License: Boost](https://img.shields.io/badge/license-Boost-blue.svg) 
+  ## TechNo Blog     ![License: Boost](https://img.shields.io/badge/license-Boost-blue.svg) 
     
 
   ## Table of Contents
@@ -45,7 +45,7 @@
 
   ## Links
 
- https://secret-scrubland-12656.herokuapp.com/
+
  
   ## Credits
 
