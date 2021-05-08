@@ -54,7 +54,7 @@
 
   ## Links
 
-  https://dashboard.heroku.com/apps/mysterious-oasis-96206
+  https://mysterious-oasis-96206.herokuapp.com
  
 
   ## Questions
