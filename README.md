@@ -54,11 +54,8 @@
 
   ## Links
 
-
+  https://dashboard.heroku.com/apps/mysterious-oasis-96206
  
-  ## Credits
-
-  none
 
   ## Questions
 
